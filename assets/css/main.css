@@ -121,7 +121,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/IMG9544801.jpg");
+		background-image: url("images/overlay.png"), url("../../images/matthewhannah-1.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,					none;
 		background-size: auto,						cover;
@@ -2751,7 +2751,8 @@ input, select, textarea {
 
 		.main .container {
 			padding: 5em 2.5em 8em 2.5em ;
-			margin-left: 2em;
+			/*Below sets the container spacinng from the left */
+			margin-left: 0em;
 			background: rgba(255, 255, 255, 0.95);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
