@@ -293,7 +293,7 @@ input, select, textarea {
 /* Top navigation */
 	.topnav {
 		display: flex;
-		align-items: center;
+		align-items: stretch;
 		justify-content: center;
 		margin-top: 1em;
 		
